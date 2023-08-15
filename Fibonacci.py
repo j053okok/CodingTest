@@ -8,5 +8,4 @@ def solution(n):
     return a
 
 
-print(solution(10))
-#test
+print(solution(10000))
